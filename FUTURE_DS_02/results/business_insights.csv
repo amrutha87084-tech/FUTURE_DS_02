@@ -1,0 +1,9 @@
+Insight,Evidence
+Month-to-month customers show a high observed churn rate.,42.71% churn
+Customers in the first 6 months show the highest churn rate.,52.94% churn
+Electronic check users show a high observed churn rate.,45.29% churn
+Fiber optic customers show a high observed churn rate.,41.89% churn
+Customers without technical support show higher observed churn.,41.64% churn
+Customers without online security show higher observed churn.,41.77% churn
+Higher monthly charges are associated with higher churn in the analyzed charge groups.,37.82% churn for $70-$100 group
+Churned customers have substantially shorter average tenure than retained customers.,17.98 vs 37.57 months
